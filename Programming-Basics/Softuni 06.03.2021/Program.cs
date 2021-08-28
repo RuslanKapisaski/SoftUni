@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Softuni_06._03._2021
+namespace Hello_World!
 {
     class Program
     {
